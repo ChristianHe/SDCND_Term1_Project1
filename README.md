@@ -16,10 +16,10 @@ I know the pipeline designed here has still a long way to go. Anyway, it is a go
 
 The rubic of the project declaims the following three files.
 
-1. A [jupyter notebook](http://github.com) file implementing the pipeline.
+1. A [jupyter notebook](https://github.com/ChristianHe/SDCND_Term1_Project1/blob/master/P1.ipynb) file implementing the pipeline.
 
-2. The test output of the pipeline, including the [test images output](http://github.com) and 
-[test videos output](http://github.com).
-Also the [test images](http://github.com) and [test videos](http://github.com) are provided for future improvement.
+2. The test output of the pipeline, including the [test images output](https://github.com/ChristianHe/SDCND_Term1_Project1/blob/master/test_images_output) and 
+[test videos output](https://github.com/ChristianHe/SDCND_Term1_Project1/blob/master/test_videos_output).
+Also the [test images](https://github.com/ChristianHe/SDCND_Term1_Project1/blob/master/test_images) and [test videos](https://github.com/ChristianHe/SDCND_Term1_Project1/blob/master/test_videos) are provided for future improvement.
 
-3. [Writeup](http://github.com) of the pipeline.
+3. [Writeup](https://github.com/ChristianHe/SDCND_Term1_Project1/blob/master/writeup.md) of the pipeline.
